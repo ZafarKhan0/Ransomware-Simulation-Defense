@@ -90,12 +90,12 @@ pytest
 This command will execute all tests located in the tests/ directory.
 
 ## Contributing
-Contributions are welcome! Please follow these steps:
--Fork the repository.
--Create a new branch for your feature or fix.
--Make your changes.
--Commit and push your changes.
--Open a pull request.
+     Contributions are welcome! Please follow these steps:
+      -Fork the repository.
+      -Create a new branch for your feature or fix.
+      -Make your changes.
+      -Commit and push your changes.
+      -Open a pull request.
 
 ## Contact
 For questions or issues, please contact K213567@nu.edu.pk.
