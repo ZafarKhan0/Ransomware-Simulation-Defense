@@ -4,29 +4,29 @@
 The Ransomware Simulation and Defense project provides a simulation tool to mimic ransomware attacks and a defense mechanism to decrypt the encrypted files. This project is designed to help everyone understand ransomware attacks, test their defenses, and practice recovery procedures.
 
 ## Features
--Simulation of Ransomware Attacks: Mimics ransomware behavior by encrypting files and leaving a ransom note.
--Decryption Tool: Provides a way to decrypt files using the correct key.
--Key Management: Generates and manages encryption keys for secure file handling.
--Backup Manager: Create and manage backups before simulating attacks.
--Ransomware Detection: Detect ransomware activity and alert users.
--Testing Framework: Run tests to validate the functionality of the tools.
+     -Simulation of Ransomware Attacks: Mimics ransomware behavior by encrypting files and leaving a ransom note.
+     -Decryption Tool: Provides a way to decrypt files using the correct key.
+     -Key Management: Generates and manages encryption keys for secure file handling.
+     -Backup Manager: Create and manage backups before simulating attacks.
+     -Ransomware Detection: Detect ransomware activity and alert users.
+     -Testing Framework: Run tests to validate the functionality of the tools.
 
 ## Prerequisites
--Python 3.8 or later
--Required Python libraries
+     -Python 3.8 or later
+     -Required Python libraries
 
 ## Installation
--Clone the Repository
-  git clone https://github.com/ZafarKhan0/Ransomware-Simulation-Defense.git
--cd Ransomware-Simulation-Defense
+     -Clone the Repository
+       git clone https://github.com/ZafarKhan0/Ransomware-Simulation-Defense.git
+     -cd Ransomware-Simulation-Defense
 
 ## Install Dependencies
--Create and activate a virtual environment:
-  -python -m venv venv
-  -source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+     -Create and activate a virtual environment:
+        -python -m venv venv
+        -source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ## Install the required Python libraries:
--pip install -r requirements.txt
+    -pip install -r requirements.txt
 
 ## Usage
 ## 1. Backup Management
